@@ -12,4 +12,4 @@ export class RegistrationForm extends Component
       </form>
     );
   }
-} 
+}
